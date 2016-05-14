@@ -1,0 +1,18 @@
+site_name: Entitas
+pages:
+- Home: 'index.md'
+- User Guide:
+  - 'Get Sarted': 'how-to/get-started.md'
+  - 'Create and Use Components': 'how-to/create-and-use-components.md'
+  - 'Create and Use Pools': 'how-to/create-and-use-pools.md'
+  - 'Create and Use Systems': 'how-to/create-and-use-systems.md'
+  - 'Migration Guide': 'how-to/migration-guide.md'
+  - 'Get Help': 'how-to/get-help.md'
+- API Reference:
+  - 'Components' : 'api-reference/components.md'
+  - 'Pools': 'api-reference/pools.md'
+  - 'Systems': 'api-reference/systems.md'
+  - 'Attributes': 'api-reference/attributes.md'
+- Frequently Asked Questions: faq.md
+- Feedback Page: feedback.md
+theme: readthedocs
